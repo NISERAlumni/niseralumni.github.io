@@ -7,7 +7,7 @@ permalink: /register/
 <hr></p>
 
 <br>
-We request you to fill this form ( https://forms.gle/cemnLUP9QjnsYaBr6 ) to help us gather the necessary details to stay connected and to ensure a smooth process. 
+We request you to fill this form to help us gather the necessary details to stay connected and to ensure a smooth process. 
 <br>
 <br>
 This form was shared once among the NISER alumni. If you haven’t yet filled it out, please do so and also, do share it with our Niser alumni friends who may not have filled it out. 
