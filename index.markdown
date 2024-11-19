@@ -4,26 +4,6 @@
 
 layout: page
 ---
-<style>
-    .heading {
-        font-family: Robot;
-        font-size: 32px;
-    }
-    .container {
-        display: flex;
-        width: 100%;
-        height: 300px;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-around;
-    }
-    .item {
-        border-radius: 20px 20px 20px 20px;
-        border: solid 2px white;
-        height: 300px;
-        width: 42%;
-    }
-</style>
 <br>
 <center><img src="/images/niser.webp" height="200" width= "200"></center>
 
