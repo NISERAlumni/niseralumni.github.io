@@ -36,7 +36,7 @@ layout: page
 </div>
 <br>
 <center>
-<img class="item" width="100%" src="/images/img3.jpg" style="object-fit: cover;">
+<img class="item" src="/images/img3.jpg" style="object-fit: cover;">
 <br>
 </center>
 <br>
