@@ -60,10 +60,6 @@
           font-family: Robot;
           font-size: 32px;
       }
-      .heading {
-        font-family: Robot;
-        font-size: 32px;
-    }
     .container {
         display: flex;
         width: 100%;
@@ -77,7 +73,24 @@
         border: solid 2px white;
         height: 300px;
         width: 42%;
-    }  
+    }
+    @media (max-width: 768px) {
+      .container {
+        display: flex;
+        width: 97%;
+        height: 630px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+    }
+    .item {
+        border-radius: 20px 20px 20px 20px;
+        border: solid 2px white;
+        height: 300px;
+        width: 100%;
+        align-items: center;
+    }
+  }
   </style>
 
 {{ content }}
