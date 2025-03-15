@@ -47,7 +47,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" style="color: darkgoldenrod;" href="/about/">About Us</a><a class="page-link" style="color: darkgoldenrod;" href="/events/">Events</a><a class="page-link" style="color: darkgoldenrod;" href="/register/">Registeration</a></div>
+        <div class="trigger"><a class="page-link" style="color: darkgoldenrod;" href="/about/">About Us</a><a class="page-link" style="color: darkgoldenrod;" href="/events/">Events</a><a class="page-link" style="color: darkgoldenrod;" href="/register/">Registration</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -74,6 +74,30 @@
         height: 300px;
         width: 42%;
     }
+    .img_cont {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        flex-direction: row;
+        margin: 0 10px 0 10px;
+    }
+    .img_item {
+        width: 50%;
+        align-items: center;
+        padding: 5px 15px 5px 0px;
+    }
+    .gallery {
+        height: 280px;
+        width: 100%;
+        object-fit: cover;
+        border-radius: 25px 25px 25px 25px;
+        border: solid 5px black;
+    }
+    .item_data {
+        width: 100%;
+        font-size: 20px;
+        text-align: center;
+    }
     @media (max-width: 768px) {
       .container {
         display: flex;
@@ -89,6 +113,30 @@
         height: 300px;
         width: 100%;
         align-items: center;
+    }
+    .img_cont {
+        display: flex;
+        width: 97%;
+        justify-content: space-between;
+        flex-direction: column;
+        margin-bottom: none;
+    }
+    .img_item {
+        width: 100%;
+        align-items: center;
+        padding: 5px 15px 0px 0px;
+    }
+    img {
+        height: 200px;
+        width: 90%;
+        object-fit: cover;
+        border-radius: 25px 25px 25px 25px;
+        border: solid 5px black;
+    }
+    .item_data {
+        width: 100%;
+        font-size: 18px;
+        text-align: center;  
     }
   }
   </style>
@@ -113,7 +161,7 @@
           <li class="p-name">NISER Alumni</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.instagram.com/alumni_niser?igsh=MXdwYmJ0aWFiY2Ezcg=="><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg> <span class="username">Alumni_NISER</span></a></li><li><a href="https://www.linkedin.com/in/alumni-niser-a8210233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">Alumni(NISER)</span></a></li><li><a href="https://www.linkedin.com/in/alumni-niser-a8210233a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">NISER Alumni</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">
