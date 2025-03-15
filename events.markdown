@@ -29,26 +29,12 @@ Here are a few snapshots of our reunions. These photos, although frozen in time,
 <br>
 <div class="img_cont">
     <div class="img_item">
-    <img class="gallery" src="/images/pic1.jpg">
+    <img class="gallery" src="/images/pic1.JPG">
     <br>
     <br>
     </div>
     <div class="img_item">
-    <img class="gallery" src="/images/pic2.jpg">
-    <br>
-    <br>
-    </div>
-</div>
-
-<br>
-<div class="img_cont">
-    <div class="img_item">
-    <img class="gallery" src="/images/pic3.jpg">
-    <br>
-    <br>
-    </div>
-    <div class="img_item">
-    <img class="gallery" src="/images/pic4.jpg">
+    <img class="gallery" src="/images/pic2.JPG">
     <br>
     <br>
     </div>
@@ -57,12 +43,26 @@ Here are a few snapshots of our reunions. These photos, although frozen in time,
 <br>
 <div class="img_cont">
     <div class="img_item">
-    <img class="gallery" src="/images/pic5.jpg">
+    <img class="gallery" src="/images/pic3.JPG">
     <br>
     <br>
     </div>
     <div class="img_item">
-    <img class="gallery" src="/images/pic6.jpg">
+    <img class="gallery" src="/images/pic4.JPG">
+    <br>
+    <br>
+    </div>
+</div>
+
+<br>
+<div class="img_cont">
+    <div class="img_item">
+    <img class="gallery" src="/images/pic5.JPG">
+    <br>
+    <br>
+    </div>
+    <div class="img_item">
+    <img class="gallery" src="/images/pic6.JPG">
     <br>
     <br>
 </div>
